@@ -1,2 +1,2 @@
 # hello-word
-我的第一个hello word库
+这是我的第一个hello word库
